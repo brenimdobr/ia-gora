@@ -1,0 +1,1 @@
+const nomes = ["Renan", "Caio", "Marcia", "valéria", "brenda", "luis", "Bento"]
